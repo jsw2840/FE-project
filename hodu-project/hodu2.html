@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>HODU 프로젝트</title>
+  <meta charset="UTF-8">
+  <title>HODU 프로젝트</title>
   <link rel="stylesheet" href="reset.css">
   <style>
+
+
     body{
       font-size: 16px;
       line-height: 20px;
@@ -39,6 +41,8 @@
     #fixed.fixed-header-nav {
       position: fixed;
       top: 0;
+      left: 50%;
+      transform: translateX(-50%);
       width: 1920px;
       z-index: 1000;
       display: flex;
@@ -119,7 +123,7 @@
     }
 
     .main-intro2 {
-     text-align: center;
+      text-align: center;
       margin-top: 120px;
     }
 
@@ -360,40 +364,40 @@
   </style>
 </head>
 <body>
-  <header>
-    <div class="header-nav" id="fixed">
-      <a href="#"><img src="images/Logo-fin.svg" alt=""></a>
-      <nav>
-        <ul>
-          <li><a href="#home">Home</a></li>
-          <li><a href="#about">About</a></li>
-          <li><a href="#support">Support</a></li>
-          <li><button class="btn-download">Download</button></li>
-        </ul>
-      </nav>
-    </div>
-    <div class="header-intro">
-      <h1 class="intro-title">
-        Lorem Ipsum is simply<br>
-        dummy text of the printing and
-      </h1>
-      <p class="intro">
-        Lorem Ipsum is simply dummy text of the printing and<br>
-        typesetting industry.<br>
-        Lorem Ipsum has been the industry's standard dummy text<br>
-        ever since the 1500s, when an unknown
-      </p>
+<header>
+  <div class="header-nav" id="fixed">
+    <a href="#"><img src="images/Logo-fin.svg" alt=""></a>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#support">Support</a></li>
+        <li><button class="btn-download">Download</button></li>
+      </ul>
+    </nav>
+  </div>
+  <div class="header-intro">
+    <h1 class="intro-title">
+      Lorem Ipsum is simply<br>
+      dummy text of the printing and
+    </h1>
+    <p class="intro">
+      Lorem Ipsum is simply dummy text of the printing and<br>
+      typesetting industry.<br>
+      Lorem Ipsum has been the industry's standard dummy text<br>
+      ever since the 1500s, when an unknown
+    </p>
 
-      <button class="btn-download">Download</button>
+    <button class="btn-download">Download</button>
 
-    </div>
-  </header>
-  <main>
-    <section class="main-intro">
-      <div class="main-img1">
+  </div>
+</header>
+<main>
+  <section class="main-intro">
+    <div class="main-img1">
       <img src="images/main1.png" alt="">
-      </div>
-      <div class="main-txt1">
+    </div>
+    <div class="main-txt1">
       <p class="main-intro1">
         Lorem Ipsum is simply<br>
         dummy text of the printing<br>
@@ -401,26 +405,26 @@
       </p>
       <p>Lorem Ipsum is simply dummy text of the printing and typesetting<br>
         industry. </p>
+    </div>
+  </section>
+  <section class="main-photo">
+    <div class="main-intro2">
+      <div class="main-txt-title">
+        <p>dummy text of the printing and dummy</p>
       </div>
-    </section>
-    <section class="main-photo">
-      <div class="main-intro2">
-        <div class="main-txt-title">
-      <p>dummy text of the printing and dummy</p>
-        </div>
       <div class="main-txt2">
-      <p>
-        Lorem Ipsum is simply <strong>dummy text</strong> of the printing and typesetting industry.<br>
-        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown
-      </p>
+        <p>
+          Lorem Ipsum is simply <strong>dummy text</strong> of the printing and typesetting industry.<br>
+          Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown
+        </p>
       </div>
 
       <div class="img-cat">
-      <div class="img-top">
-        <img src="images/main2.png" alt="">
-        <img src="images/main3.png" alt="">
-        <img src="images/main4.png" alt="">
-      </div>
+        <div class="img-top">
+          <img src="images/main2.png" alt="">
+          <img src="images/main3.png" alt="">
+          <img src="images/main4.png" alt="">
+        </div>
         <div class="img-bottom">
           <img src="images/main5.png" alt="">
           <img src="images/main6.png" alt="">
@@ -430,76 +434,76 @@
 
       <div class="main-scroll">
         <div class="main-explain">
-        <p>
-          Continue exploring HODU
+          <p>
+            Continue exploring HODU
+          </p>
+        </div>
+        <button type="button" class="btn-download">
+          Show More
+        </button>
+      </div>
+    </div>
+  </section>
+  <hr>
+  <section class="map-view">
+    <p class="map-intro-title">Where you’ll be</p>
+    <p class="map-intro">
+      330, Cheomdan-ro, Jeju-si, Jeju-do, Republic of Korea
+    </p>
+    <div id="map" style="width:500px;height:400px;"></div>
+  </section>
+  <section>
+    <div class="subscribe">
+      <div class="subscribe-intro">
+        <p class="subscribe-title">Subscribe to our Blog post</p>
+        <p class="subscribe-txt">
+          Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+          Lorem Ipsum has been the industry's standard dummy text
         </p>
-        </div>
-      <button type="button" class="btn-download">
-        Show More
-      </button>
-        </div>
-      </div>
-    </section>
-    <hr>
-    <section class="map-view">
-      <p class="map-intro-title">Where you’ll be</p>
-      <p class="map-intro">
-        330, Cheomdan-ro, Jeju-si, Jeju-do, Republic of Korea
-      </p>
-      <div id="map" style="width:500px;height:400px;"></div>
-    </section>
-    <section>
-      <div class="subscribe">
-        <div class="subscribe-intro">
-      <p class="subscribe-title">Subscribe to our Blog post</p>
-      <p class="subscribe-txt">
-        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-        Lorem Ipsum has been the industry's standard dummy text
-      </p>
-        </div>
-
-<!--      <div class="email-input">-->
-<!--        <input type="email" class="email-box" oninput="checkEmail();" placeholder="Enter your e-mail address">-->
-<!--        <button id="open-modal" class="btn-download">Subscribe</button>-->
-<!--      </div>-->
-
-        <form action="/subscribe" method="post" class="email-input" id="email-form">
-          <input type="text" class="email-box" id="email-ad" autocomplete="off" placeholder="Enter your e-mail address" required>
-          <button type="submit" id="open-modal" class="btn-download">Subscribe</button>
-        </form>
-
-      </div>
-      <!--modal-->
-      <div class="modal">
-        <img src="images/modal.png" alt="">
-        <p class="modal-title">Thank you!</p>
-        <p class="modal-txt">Lorem Ipsum is simply dummy text of the printing industry. </p>
-        <button class="btn-download" id="close-modal">OK! I Love HODU</button>
       </div>
 
-    </section>
-    <div class="background-img">
-      <img src="images/footer.png" alt="">
+      <!--      <div class="email-input">-->
+      <!--        <input type="email" class="email-box" oninput="checkEmail();" placeholder="Enter your e-mail address">-->
+      <!--        <button id="open-modal" class="btn-download">Subscribe</button>-->
+      <!--      </div>-->
+
+      <form action="/subscribe" method="post" class="email-input" id="email-form">
+        <input type="text" class="email-box" id="email-ad" autocomplete="off" placeholder="Enter your e-mail address" required>
+        <button type="submit" id="open-modal" class="btn-download">Subscribe</button>
+      </form>
+
     </div>
-    <div class="arrow-up">
-      <img src="images/keyboard_arrow_up.svg" id="header-nav" alt="">
+    <!--modal-->
+    <div class="modal">
+      <img src="images/modal.png" alt="">
+      <p class="modal-title">Thank you!</p>
+      <p class="modal-txt">Lorem Ipsum is simply dummy text of the printing industry. </p>
+      <button class="btn-download" id="close-modal">OK! I Love HODU</button>
     </div>
-  </main>
-  <footer>
-    <div>
+
+  </section>
+  <div class="background-img">
+    <img src="images/footer.png" alt="">
+  </div>
+  <div class="arrow-up">
+    <img src="images/keyboard_arrow_up.svg" id="header-nav" alt="">
+  </div>
+</main>
+<footer>
+  <div>
     <img src="images/Logo-fin.svg" alt="">
-    </div>
-    <div>
+  </div>
+  <div>
     <ul class="sns">
       <li><a href="#"><img src="images/icon-blog.png"></a></li>
       <li><a href="#"><img src="images/icon-insta.png"></a></li>
       <li><a href="#"><img src="images/icon-facebook.png"></a></li>
       <li><a href="#"><img src="images/icon-youtube.png"></a></li>
     </ul>
-    </div>
-  </footer>
+  </div>
+</footer>
 
-  <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=66bd0bd401d15d1812b94be39714d49f"></script>
+<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=66bd0bd401d15d1812b94be39714d49f"></script>
 <script>
 
   //스크롤시 헤더네비 고정
@@ -527,25 +531,25 @@
     }
   });
 
-    // 스크롤하면 arrowup보이고 맨위에 도착했을때는 arrowup삭제
-    document.querySelector('.arrow-up').style.display = 'none';
+  // 스크롤하면 arrowup보이고 맨위에 도착했을때는 arrowup삭제
+  document.querySelector('.arrow-up').style.display = 'none';
 
-    addEventListener('scroll', () => {
-      if (scrollY > 0) {
-        document.querySelector('.arrow-up').style.display = 'flex';
-      } else {
-        document.querySelector('.arrow-up').style.display = 'none';
-      }
+  addEventListener('scroll', () => {
+    if (scrollY > 0) {
+      document.querySelector('.arrow-up').style.display = 'flex';
+    } else {
+      document.querySelector('.arrow-up').style.display = 'none';
+    }
+  });
+
+
+  //  arrowup 버튼 누르면 맨위로
+  document.getElementById('header-nav').addEventListener('click', () => {
+    scrollTo({
+      top: 0,
+      behavior: 'smooth'
     });
-
-
-    //  arrowup 버튼 누르면 맨위로
-    document.getElementById('header-nav').addEventListener('click', () => {
-      scrollTo({
-        top: 0,
-        behavior: 'smooth'
-      });
-    });
+  });
 
   // subscribe 누르면 모달 열림
   function showModal() {
@@ -554,36 +558,36 @@
     modal.classList.add('on'); // 'on' 클래스를 추가합니다.
   }
 
-    // // subscribe 누르면 모달 열림
-    // document.getElementById('open-modal').addEventListener('click', () => {
-    //   const modal = document.querySelector('.modal');
-    //   modal.style.display = 'flex';
-    //   modal.classList.add('on');
-    // });
+  // // subscribe 누르면 모달 열림
+  // document.getElementById('open-modal').addEventListener('click', () => {
+  //   const modal = document.querySelector('.modal');
+  //   modal.style.display = 'flex';
+  //   modal.classList.add('on');
+  // });
 
-    // 닫기 버튼 눌렀을때 모달 닫힘
-    document.getElementById('close-modal').addEventListener('click', () => {
-      const modal = document.querySelector('.modal');
-      modal.style.display = 'none'; // 모달 숨김
-      modal.classList.remove('on'); // 'on' 클래스 제거
-    });
+  // 닫기 버튼 눌렀을때 모달 닫힘
+  document.getElementById('close-modal').addEventListener('click', () => {
+    const modal = document.querySelector('.modal');
+    modal.style.display = 'none'; // 모달 숨김
+    modal.classList.remove('on'); // 'on' 클래스 제거
+  });
 
-    //카카오 지도 api
-    const container = document.getElementById('map');
-    const options = {
-      center: new kakao.maps.LatLng(33.4423552138731, 126.5715765953064),
-      level: 3
-    };
+  //카카오 지도 api
+  const container = document.getElementById('map');
+  const options = {
+    center: new kakao.maps.LatLng(33.4423552138731, 126.5715765953064),
+    level: 3
+  };
 
-    const map = new kakao.maps.Map(container, options);
+  const map = new kakao.maps.Map(container, options);
 
 
-    const marker = new kakao.maps.Marker({
+  const marker = new kakao.maps.Marker({
 
-      position: map.getCenter()
-    });
+    position: map.getCenter()
+  });
 
-    marker.setMap(map);
+  marker.setMap(map);
 
 </script>
 </body>
