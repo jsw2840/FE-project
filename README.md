@@ -1,26 +1,24 @@
-# 프로젝트 이름
+# HODU 소개 
 
 <p align="center">
   <br>
-  <img src="./images/common/logo-sample.jpeg">
+   <img src="images/main5.png">
   <br>
+  고양이 호두를 소개하는 웹 페이지 입니다!
 </p>
 
-목차
 
-## 프로젝트 소개
+## 개발기간
 
 <p align="justify">
-프로젝트 개요/동기
+2024-08-19 ~ 2024-08-29
 </p>
 
-<p align="center">
-GIF Images
-</p>
 
 <br>
 
 ## 기술 스택
+
 
 | JavaScript | CSS |  HTML   |  
 | :--------: | :--------: | :------: |
