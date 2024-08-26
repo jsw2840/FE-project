@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-   ![cat](https://github.com/user-attachments/assets/204cc00e-1ba8-47b1-ab15-bf08313630e7)
+   ![cat](https://github.com/user-attachments/assets/7959a2f5-ae2b-449b-a88f-e2aef884e2ab)
   <br>
   고양이 호두를 소개하는 웹 페이지 입니다!
 </p>
