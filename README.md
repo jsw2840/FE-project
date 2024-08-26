@@ -1,8 +1,7 @@
 # HODU 소개 
-
+![cat](https://github.com/user-attachments/assets/eab84a8b-128a-45a3-b902-ddcd3b2926b4)
 <p align="center">
   <br>
-   ![cat](https://github.com/user-attachments/assets/eab84a8b-128a-45a3-b902-ddcd3b2926b4)
   <br>
   고양이 호두를 소개하는 웹 페이지 입니다!
 </p>
