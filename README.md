@@ -22,10 +22,6 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-| JavaScript | CSS |  HTML   |  
-| :--------: | :--------: | :------: |
-|   ![js]    |   ![css]    | ![html] |
-
 <br>
 
 ## 구현 기능
@@ -48,10 +44,4 @@
 
 <br>
 
-## 라이센스
 
-<!-- Stack Icon Refernces -->
-
-[js]: /images/stack/javascript.svg
-[css]: /images/stack/css.svg
-[html]: /images/stack/html.svg
