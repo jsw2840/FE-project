@@ -1,18 +1,13 @@
 # HODU 소개 
-<div align="center">
   
 ![cat](https://github.com/user-attachments/assets/eab84a8b-128a-45a3-b902-ddcd3b2926b4)
   <br>
   <br>
   고양이 호두를 소개하는 웹 페이지 입니다!
-</div>
 
 
 ## 개발기간
-
-<p align="justify">
 2024-08-19 ~ 2024-08-29
-</p>
 
 
 <br>
@@ -38,10 +33,6 @@
 
 ## 배운 점 & 아쉬운 점
 
-<p align="justify">
 
-</p>
-
-<br>
 
 
