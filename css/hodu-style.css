@@ -55,7 +55,7 @@ nav > ul {
     align-items: flex-start;
     gap: 40px;
 
-    background: url("../hodu-project/images/header.png") bottom right no-repeat;
+    background: url("../images/header.png") bottom right no-repeat;
     background-size: 415px 766px;
 }
 
@@ -242,7 +242,7 @@ hr {
     border-radius: 60px;
     padding-left:68px;
     box-sizing: border-box;
-    background:url("../hodu-project/images/mail.svg") no-repeat 24px #FFFFFF;
+    background:url("../images/mail.svg") no-repeat 24px #FFFFFF;
 }
 
 
@@ -295,7 +295,7 @@ footer {
 .modal {
     width: 600px;
     height: 400px;
-    background: url("../hodu-project/images/backgroundmodal.png") no-repeat;
+    background: url("../images/backgroundmodal.png") no-repeat;
     position: fixed;
     top: 50%;
     left:50%;

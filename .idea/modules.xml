@@ -3,10 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/FE-project.iml" filepath="$PROJECT_DIR$/.idea/FE-project.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hodu-project/css/css.iml" filepath="$PROJECT_DIR$/hodu-project/css/css.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hodu-project/hodu-project.iml" filepath="$PROJECT_DIR$/hodu-project/hodu-project.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hodu-project/images/images.iml" filepath="$PROJECT_DIR$/hodu-project/images/images.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hodu-project/script/script.iml" filepath="$PROJECT_DIR$/hodu-project/script/script.iml" />
+      <module fileurl="file://$PROJECT_DIR$/css/css.iml" filepath="$PROJECT_DIR$/css/css.iml" />
+      <module fileurl="file://$PROJECT_DIR$/images/images.iml" filepath="$PROJECT_DIR$/images/images.iml" />
+      <module fileurl="file://$PROJECT_DIR$/script/script.iml" filepath="$PROJECT_DIR$/script/script.iml" />
     </modules>
   </component>
 </project>
