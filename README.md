@@ -1,10 +1,11 @@
-# HODU 웹페이지 소개 
-  
-![cat](https://github.com/user-attachments/assets/eab84a8b-128a-45a3-b902-ddcd3b2926b4)
-  <br>
- ### 고양이 호두를 소개하는 웹페이지 입니다!
- <br>
- https://jsw2840.github.io/FE-project/
+## 🐾 HODU 웹페이지에 오신 것을 환영합니다!
+
+![호두의 귀여운 모습](https://github.com/user-attachments/assets/eab84a8b-128a-45a3-b902-ddcd3b2926b4)
+
+### 고양이 호두를 소개하는 웹페이지 입니다! 😺  
+
+
+👉 [여기](https://jsw2840.github.io/FE-project/)를 클릭하면 호두를 구경할 수 있습니다!
  
 <br>
 
