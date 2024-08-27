@@ -4,7 +4,6 @@
   <br>
  ### 고양이 호두를 소개하는 웹페이지 입니다!
  <br>
- 고양이 호두를 소개하는 웹페이지 입니다!
  https://jsw2840.github.io/FE-project/
  
 <br>
