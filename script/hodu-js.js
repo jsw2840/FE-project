@@ -46,22 +46,16 @@ document.getElementById('header-nav').addEventListener('click', () => {
 // subscribe 누르면 모달 열림
 function showModal() {
     const modal = document.querySelector('.modal');
-    modal.style.display = 'flex'; // 모달을 표시합니다.
-    modal.classList.add('on'); // 'on' 클래스를 추가합니다.
+    modal.style.display = 'flex';
+    modal.classList.add('on');
 }
 
-// // subscribe 누르면 모달 열림
-// document.getElementById('open-modal').addEventListener('click', () => {
-//   const modal = document.querySelector('.modal');
-//   modal.style.display = 'flex';
-//   modal.classList.add('on');
-// });
 
 // 닫기 버튼 눌렀을때 모달 닫힘
 document.getElementById('close-modal').addEventListener('click', () => {
     const modal = document.querySelector('.modal');
-    modal.style.display = 'none'; // 모달 숨김
-    modal.classList.remove('on'); // 'on' 클래스 제거
+    modal.style.display = 'none';
+    modal.classList.remove('on');
 });
 
 //카카오 지도 api
