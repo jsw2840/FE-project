@@ -30,10 +30,12 @@
   <br>
  <img src="https://github.com/user-attachments/assets/9d16387c-175a-40aa-92b0-39db4297fbb2" width="500" height="300">
   <br>
+
 ### 스크롤 탑 버튼 헤더고정
 - 스크롤 시 헤더가 고정됩니다.
 - 스크롤 탑 버튼이 스크롤 시 나타나며, 스크롤 탑 버튼을 누르면 부드럽게 페이지 최상단으로 이동합니다.
-- <br>
+  <br>
+
 ### 카카오 지도 api
 - 카카오 지도 API를 활용하여 특정 위치를 표시합니다.
 - 웹 페이지에 간단히 삽입하여 지도를 표시하고, 특정 지점의 좌표를 시각적으로 보여줄 수 있습니다.
@@ -41,6 +43,7 @@
  <br>
 <img src="https://github.com/user-attachments/assets/d86e106e-de55-43c4-8173-577b8871d7d7" width="500" height="300">
 <br>
+
 
 
 
