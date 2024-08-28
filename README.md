@@ -36,7 +36,7 @@
 - 카카오 지도 API를 활용하여 특정 위치를 표시합니다.
 - 웹 페이지에 간단히 삽입하여 지도를 표시하고, 특정 지점의 좌표를 시각적으로 보여줄 수 있습니다.
 <br>
-![지도](https://github.com/username/repositoryname/raw/branchname/path/to/image.png)
+![지도](https://github.com/username/repositoryname/blob/branchname/path/to/image.png)
   <br>
 
 
