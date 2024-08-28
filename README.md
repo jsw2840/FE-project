@@ -27,6 +27,7 @@
 - 이메일 입력 후 `Subscribe` 버튼을 클릭하면 모달창이 나타납니다.
 - 유효한 이메일이 입력되면 모달창이 뜨고, `OK! I love HODU` 버튼을 클릭하면 form이 제출되고 모달창이 닫힙니다.
   <br>
+  <br>
  ![구독](https://github.com/user-attachments/assets/9d16387c-175a-40aa-92b0-39db4297fbb2)
   <br>
 ### 스크롤 탑 버튼 헤더고정
