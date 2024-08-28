@@ -26,7 +26,7 @@
 - 이메일 유효성 검사를 진행하여, 올바르지 않은 경우 alert 창으로 경고 문구가 표시됩니다.
 - 이메일 입력 후 `Subscribe` 버튼을 클릭하면 모달창이 나타납니다.
 - 유효한 이메일이 입력되면 모달창이 뜨고, `OK! I love HODU` 버튼을 클릭하면 form이 제출되고 모달창이 닫힙니다.
- ![구독](https://github.com/user-attachments/assets/d25ef2fd-8598-4337-81c5-87c5b3da409e)
+ ![구독](https://github.com/user-attachments/assets/9d16387c-175a-40aa-92b0-39db4297fbb2)
   <br>
 ### 스크롤 탑 버튼 헤더고정
 - 스크롤 시 헤더가 고정됩니다.
