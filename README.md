@@ -37,7 +37,7 @@
 - 웹 페이지에 간단히 삽입하여 지도를 표시하고, 특정 지점의 좌표를 시각적으로 보여줄 수 있습니다.
 <br>
 ![지도](https://github.com/user-attachments/assets/67a2306e-3361-46ec-87f1-58fe5d8916fe)
-  br>
+  <br>
 
 
 
