@@ -1,6 +1,6 @@
 ## 🐾 HODU 웹페이지에 오신 것을 환영합니다!
 
-![cat](https://github.com/user-attachments/assets/eab84a8b-128a-45a3-b902-ddcd3b2926b4)
+<img src="https://github.com/user-attachments/assets/eab84a8b-128a-45a3-b902-ddcd3b2926b4">
 
 ### 고양이 호두를 소개하는 웹페이지 입니다! 😺  
 
@@ -27,7 +27,7 @@
 - 이메일 입력 후 `Subscribe` 버튼을 클릭하면 모달창이 나타납니다.
 - 유효한 이메일이 입력되면 모달창이 뜨고, `OK! I love HODU` 버튼을 클릭하면 form이 제출되고 모달창이 닫힙니다.
   <br>
- ![구독](https://github.com/user-attachments/assets/9d16387c-175a-40aa-92b0-39db4297fbb2)
+ <img src="https://github.com/user-attachments/assets/9d16387c-175a-40aa-92b0-39db4297fbb2" width="300" height="300">
   <br>
 ### 스크롤 탑 버튼 헤더고정
 - 스크롤 시 헤더가 고정됩니다.
@@ -36,7 +36,7 @@
 - 카카오 지도 API를 활용하여 특정 위치를 표시합니다.
 - 웹 페이지에 간단히 삽입하여 지도를 표시하고, 특정 지점의 좌표를 시각적으로 보여줄 수 있습니다.
  <br>
-<img src="https://github.com/user-attachments/assets/d86e106e-de55-43c4-8173-577b8871d7d7">
+<img src="https://github.com/user-attachments/assets/d86e106e-de55-43c4-8173-577b8871d7d7" width="300" height="300">
   <br>
 
 
