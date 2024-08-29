@@ -1,5 +1,3 @@
-## 🐾 HODU 웹페이지에 오신 것을 환영합니다!
-
 <img src="https://github.com/user-attachments/assets/eab84a8b-128a-45a3-b902-ddcd3b2926b4">
 
 ### 고양이 호두를 소개하는 웹페이지 입니다! 😺  
